@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="UserClient" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="br.com.selat.grpc.users.client.UserClient" />
+    <module name="users.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
